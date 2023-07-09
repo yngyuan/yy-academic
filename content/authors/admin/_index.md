@@ -31,6 +31,7 @@ interests:
   - Human-Centered Computing
   - Artificial Intelligence
   - Game Design
+  - Digital Transformation
 
 # Education to show in About widget
 education:
@@ -79,7 +80,7 @@ email: 'mailto:zedd.yuan@utexas.edu'
 highlight_name: true
 ---
 
-Yang Yuan is guilty of being a consultant focusing on Enterprise Modernization, Platforms, and Cloud. He has an interdisciplinary background in Software Development, Data Science, and Human-Computer Interaction and have worked with some of the largest organisations in Asia-Pacific on their digital transformation journeys across domains including automotive, retail, and energy. He is also a SAFe certified Scrum Master and Azure certified cloud practitioner. Prior to joining Thoughtworks, he has worked as Developer, Data Analyst and User Researcher during his time at Amazon, Tencent and Dell Medical School. 
+Yang Yuan is guilty of being a consultant focusing on Enterprise Modernization, Platforms, and Cloud. He has worked with some of the largest organisations in Asia-Pacific on their digital transformation journeys across domains including automotive, retail, and energy. He is also a SAFe certified Scrum Master and Azure certified cloud practitioner. Prior to joining Thoughtworks, he has worked as Developer, Data Analyst and User Researcher during his time at Amazon, Tencent and Dell Medical School. He is a Jack-of-all-trades and a Master of Science from UT Austin iSchool.
 
 You may find his fingerprints in some articles and podcasts, or catch him butchering some good old Texas blues in his bedroom studio. 
 
