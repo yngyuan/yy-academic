@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Consultant at Thoughtworks
+role: Scholarly blues cowboy
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -24,18 +24,18 @@ organizations:
     url: https://www.utexas.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Human-Centered Computing, Artificial Intelligence and Game Design.
 
 # Interests to show in About widget
 interests:
+  - Human-Centered Computing
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Game Design
 
 # Education to show in About widget
 education:
   courses:
-    - course: Msc in Information Studies
+    - course: MSc in Information Studies
       institution: The University of Texas at Austin
       year: 2021
     - course: BSc in Information and Computing Science
@@ -64,7 +64,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/theYuan
+    link: https://www.linkedin.cn/incareer/in/theyuan/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -73,11 +73,14 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'mailto:zedd.yuan@utexas.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Yang Yuan is a consultant with an interdisciplinary background in software development, data science, and human-computer Interaction. He is passionate about digital transformations that make a positive social impact and is always looking for ways to make life easier by leveraging the power of emerging technologies. He is also a nerd about AI, blockchain and blues. Outside of work, you can find him playing some good old Texas blues in my studio.
+Yang Yuan is guilty of being a consultant focusing on Enterprise Modernization, Platforms, and Cloud. He has an interdisciplinary background in Software Development, Data Science, and Human-Computer Interaction and have worked with some of the largest organisations in Asia-Pacific on their digital transformation journeys across domains including automotive, retail, and energy. He is also a SAFe certified Scrum Master and Azure certified cloud practitioner. Prior to joining Thoughtworks, he has worked as Developer, Data Analyst and User Researcher during his time at Amazon, Tencent and Dell Medical School. 
+
+You may find his fingerprints in some articles and podcasts, or catch him butchering some good old Texas blues in his bedroom studio. 
+
 {style="text-align: justify;"}

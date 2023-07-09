@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Yang Yuan
 date: 2022-10-24
 type: landing
 
@@ -23,12 +23,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+      #   experience
+        - title: Consultant
+          company: Thoughtworks
+          company_url: 'https://www.thoughtworks.com/'
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
+          date_start: '2021-08-16'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -36,20 +37,49 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+    #   experience
+        - title: Full-stack Developer
+          company: Dell Medical School
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2020-12-01'
+          date_end: '2021-05-20'
           description: Taught electronic engineering and researched semiconductor physics.
+    #   experience
+        - title: Full-stack Developer
+          company: Pop Social
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2020-12-01'
+          date_end: '2021-05-20'
+          description: Taught electronic engineering and researched semiconductor physics.
+    #   experience
+        - title: Full-stack Developer
+          company: Tencent
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2020-12-01'
+          date_end: '2021-05-20'
+          description: Taught electronic engineering and researched semiconductor physics.
+    #   experience
+        - title: Full-stack Developer
+          company: Amazon
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2020-12-01'
+          date_end: '2021-05-20'
+          description: Taught electronic engineering and researched semiconductor physics.
+
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Notorious Achievements'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -193,22 +223,21 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Well howdy there, partner! If you've got a question, a comment, or just wanna say Hi, don't be shy! Drop me a line and we'll see what trouble we can get into together. 
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: zedd.yuan@utexas.edu
       appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      # address:
+      #  street: 450 Serra Mall
+      #  city: Stanford
+      #  region: CA
+      #  postcode: '94305'
+      #  country: United States
+      #  country_code: US
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
