@@ -27,7 +27,7 @@ sections:
         - title: Consultant
           company: Thoughtworks
           company_url: 'https://www.thoughtworks.com/'
-          company_logo: org-gc
+          company_logo: org-tw
           location: California
           date_start: '2021-08-16'
           date_end: ''
