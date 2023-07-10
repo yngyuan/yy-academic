@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Curiosity is not enough; you need to have some concerns and, even better, a bit of anger.
+role: Scholarly blues cowboy
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -62,7 +62,7 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/yngyuan
+    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.cn/incareer/in/theyuan/
