@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yang Yuan 院阳
+title: Yang(Zed) Yuan 院阳
 
 # Full name (for SEO)
 first_name: Yang
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: "Curiosity is not enough; you need to have some concerns and, even better, a bit of anger." 
+role: Curiosity is not enough; you need to have some concerns and, even better, a bit of anger.
 
 # Organizations/Affiliations to show in About widget
 organizations:
