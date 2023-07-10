@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Yang Yuan
+title: Yang(Zed) Yuan
 date: 2022-10-24
 type: landing
 
@@ -31,12 +31,7 @@ sections:
           location: Shanghai, China
           date_start: '2021-08-16'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: Worked with some of the largest organisations in Asia-Pacific on their digital transformation journeys across domains including automotive, retail, and energy. Applied Design Thinking model and datat driven apporach to come with user centric product roadmaps. SAFe certified Scrum Master and Azure certified cloud practitioner.
     #   experience
         - title: Full-stack Developer, Practicum
           company: Dell Medical School
@@ -60,7 +55,7 @@ sections:
     #   experience
         - title: Data Analyst Intern 
           company: Tencent
-          company_url: ''
+          company_url: 'https://www.tencent.com/en-us/'
           company_logo: org-x
           location: Beijing, China
           date_start: '2018-05-21'
@@ -69,7 +64,7 @@ sections:
 
         - title: Vendor Manager Intern
           company: Amazon
-          company_url: ''
+          company_url: 'https://www.amazon.com/'
           company_logo: org-x
           location: Beijing China
           date_start: '2017-12-10'
