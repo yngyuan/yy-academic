@@ -196,7 +196,11 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/zedyuan_eth'
+        - icon: video
+          icon_pack: fas
+          name: Zoom Me
+          link: 'https://zoom.com'          
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
