@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-- tagline: "Curiosity is not enough; you need to have some concerns and, even better, a bit of anger." 
+- role: "Curiosity is not enough; you need to have some concerns and, even better, a bit of anger." 
 
 # Organizations/Affiliations to show in About widget
 organizations:
