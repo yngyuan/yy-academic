@@ -55,8 +55,7 @@ sections:
           location: Austin, TX
           date_start: '2020-02-18'
           date_end: '2020-05-18'
-          description: Led a team of 4 students to do User Experience research and Usability Testing. Initiated Heuristic Evaluation on POP Social App and made suggestions to enhance the User Experience.
-Owned competitive product analysis and presented with data visualization.
+          description: Led a team of 4 students to do User Experience research and Usability Testing. Initiated Heuristic Evaluation on POP Social App and made suggestions to enhance the User Experience. Owned competitive product analysis and presented with data visualization.
 
     #   experience
         - title: Data Analyst Intern 
@@ -214,7 +213,7 @@ Owned competitive product analysis and presented with data visualization.
     design:
       columns: '2'
       view: citation
-########################
+#
   - block: collection
     id: talks
     content:
@@ -225,13 +224,13 @@ Owned competitive product analysis and presented with data visualization.
     design:
       columns: '2'
       view: compact
-########################
+#
   - block: tag_cloud
     content:
       title: Popular Topics
     design:
       columns: '2'
-########################
+#
   - block: markdown
     content:
       title: Gallery
@@ -240,7 +239,7 @@ Owned competitive product analysis and presented with data visualization.
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-########################
+#
   - block: contact
     id: contact
     content:
