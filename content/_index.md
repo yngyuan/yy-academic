@@ -28,9 +28,9 @@ sections:
           company: Thoughtworks
           company_url: 'https://www.thoughtworks.com/'
           company_logo: org-x
-          location: China
+          location: Shanghai, China
           date_start: '2021-08-16'
-          date_end: 'Shanghai, China'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
