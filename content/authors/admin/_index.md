@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Scholarly blues cowboy
+role: Act so as to treat humanity, whether in your own person or in that of another, at all times also as an end, and not only as a means. (Kant, Groundwork of the Metaphysics of Morals) 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -24,14 +24,13 @@ organizations:
     url: https://www.utexas.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Human-Centered Computing, Artificial Intelligence, Game Design and Digital Transformation.
+bio: My research interests include Human-Centered Computing, Artificial Intelligence, and Game Design.
 
 # Interests to show in About widget
 interests:
   - Human-Centered Computing
   - Artificial Intelligence
   - Game Design
-  - Digital Transformation
 
 # Education to show in About widget
 education:
