@@ -10,6 +10,10 @@ image:
   focal_point: Smart
 
 links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/zedyuan_eth
 url_code: 'https://github.com/yngyuan/StarryNight'
 url_pdf: 'https://github.com/yngyuan/StarryNight/blob/main/VE%20Poster.pdf'
 
