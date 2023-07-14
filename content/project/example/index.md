@@ -7,7 +7,7 @@ date: '2020-12-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
-slides: ''
+
 image:
   caption: A preview of the experience.
   focal_point: Smart
@@ -16,6 +16,7 @@ links:
 url_code: 'https://github.com/yngyuan/StarryNight'
 url_pdf: 'https://github.com/yngyuan/StarryNight/blob/main/VE%20Poster.pdf'
 
+slides = ""
 
 Start to walk in the virtual gallery to see Starry Night, one of the most known paintings of Van Gogh. While you are walking to see the painting from a close distance the explanation about Van Gogh, his painting style is played as a voice over in the space. Finally, you can see the three-dimensional representation of the Starry Night in a 360 degree view. Our purpose is to show the user the possible representation of this artwork in a three dimensional setting and help them to understand the space.
 
