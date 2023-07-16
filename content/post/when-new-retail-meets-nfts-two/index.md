@@ -39,6 +39,7 @@ tags:
 
 categories:
   - Blog
+---
 
 This post is published on Thoughtworks Insight Blog.
 [link](https://www.thoughtworks.com/en-sg/insights/blog/digital-innovation/when-new-retail-meets-nft-pt2)
