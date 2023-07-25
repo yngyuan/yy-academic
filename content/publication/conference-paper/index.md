@@ -25,18 +25,27 @@ publishDate: '2020-12-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['7']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *UT Austin*
+publication_short: In *UT Ausitin*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Platforms like DoorDash and UberEats provide tremendous opportunities for gig workers. However, the gig workers are under
+          "algorithmic management" and have to face the black-boxed algorithms with very limited understanding of how the system operates.
+          Their income are greatly influenced by their delivery time. The gig
+          workers often find themselves spending more time waiting than
+          delivering, which in turn decrease their ratings and threats their
+          chances of getting orders. We dived into the problem by algorithm
+          auditing, conducting survey and having 1 on 1 interviews with
+          users. To address this problem we came up with 3 new interface
+          designs and tested with Dashers using storyboard speed dating to
+          get their feedback.
 
 # Summary. An optional shortened abstract.
-summary: Platforms like DoorDash and UberEats provide tremendous op- portunities for gig workers. However, the gig workers are under "algorithmic management" and have to face the black-boxed algo- rithms with very limited understanding of how the system operates. Their income are greatly influenced by their delivery time. The gig workers often find themselves spending more time waiting than delivering, which in turn decrease their ratings and threats their chances of getting orders. We dived into the problem by algorithm auditing, conducting survey and having 1 on 1 interviews with users. To address this problem we came up with 3 new interface designs and tested with Dashers using storyboard speed dating to get their feedback.
 
-tags: ['gig economy', 'algorithmic management', 'user experience' ]
+
+tags: ['gig economy', 'human-ai interaction', 'algorithmic management', 'user experience' ]
 
 # Display this page in the Featured widget?
 featured: true
