@@ -178,7 +178,6 @@ sections:
         Well howdy there, partner! If you've got a question, a comment, or just wanna say Hi, don't be shy! Drop me a line and we'll see what trouble we can get into together. 
       # Contact (add or remove contact options as necessary)
       email: zedd.yuan@utexas.edu
-      appointment_url: 'https://calendly.com'
       # address:
       #  street: 450 Serra Mall
       #  city: Stanford
@@ -195,18 +194,7 @@ sections:
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/zedyuan_eth'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'          
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
