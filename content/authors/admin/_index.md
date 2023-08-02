@@ -24,12 +24,13 @@ organizations:
     url: https://www.utexas.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Human-Centered Computing, Artificial Intelligence, and Game Design.
+bio: My research interests include Human-Centered Computing, Artificial Intelligence, Digital Health, Game Design and their lovely intersections.
 
 # Interests to show in About widget
 interests:
   - Human-Centered Computing
   - Artificial Intelligence
+  - Digital Health
   - Game Design
 
 # Education to show in About widget
